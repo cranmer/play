@@ -20,19 +20,24 @@ n_samples = 20
 seed = np.random.RandomState(seed=3)
 
 #this one looks cool
-#X_true = np.array([np.linspace(0,1,n_samples),np.linspace(.1,3,n_samples)]).T
+#gridMuSigma = np.array([np.linspace(0,1,n_samples),np.linspace(.1,3,n_samples)]).T
 
-X_true=[]
-for i in np.linspace(0,3,n_samples):
+#create a set of Gaussians in a grid of mean (-1.5,1.5) and standard devaition (0.2,5)
+gridMuSigma=[]
+for i in np.linspace(-1.5,1.5,n_samples):
     for j in np.linspace(.2,5,n_samples):
-        X_true.append([i,j])
-X_true=np.array(X_true)
+        gridMuSigma.append([i,j])
+gridMuSigma=np.array(gridMuSigma)
 
-#print X_true
+#probably an easier way to do with meshgrid, but needs to be reshaped
+#gridMuSigma=np.meshgrid(np.linspace(-1.5,1.5,n_samples),np.linspace(0.2,5,n_samples))
+
+# choose a different color for each point
+colors = plt.cm.jet(np.linspace(0, 1, len(gridMuSigma)))
 
 #use 2-d Gaussian information metric for distances
-# see equation 7 from 0802.2050 ("FINE" paper)
-def getSimilarities(x,y):
+# see equation 7 from http://arxiv.org/abs/0802.2050 ("FINE" paper)
+def getDistance(x,y):
     #going to define a measure here
     #print 'in getSim', x, y
     aa = x[0]-y[0]
@@ -43,53 +48,54 @@ def getSimilarities(x,y):
     ret = np.log(num/den)
     return ret
 
-
+# Create the array of "similarities" (distances) between points
 tempSim=[]
-for x in X_true:
+for x in gridMuSigma:
     temp = []
-    for y in X_true:
-        temp.append(getSimilarities(x,y))
+    for y in gridMuSigma:
+        temp.append(getDistance(x,y))
     tempSim.append(temp)
-similarities=np.array(tempSim)
+distances=np.array(tempSim)
 
-
+#make 3d embedding 
 mds = manifold.MDS(n_components=3, metric=True, max_iter=3000, eps=1e-9, random_state=seed,
-                   dissimilarity="precomputed", n_jobs=-1)
-pos = mds.fit(similarities).embedding_
+                   dissimilarity="precomputed", n_jobs=1)
+embed3d = mds.fit(distances).embedding_
 
-# Rescale the data
-pos *= np.sqrt((X_true ** 2).sum()) / np.sqrt((pos ** 2).sum())
-
-# Rotate the data
-#clf = PCA(n_components=3)
-#pos = clf.fit_transform(pos)
-
-fig = plt.figure(figsize=(8,8))
-#subpl = fig.add_subplot(111,projection='3d')
-subpl = fig.add_subplot(121,projection='3d')
-
-
-#make 3d scatter
-# choose a different color for each trajectory
-colors = plt.cm.jet(np.linspace(0, 1, len(X_true)))
-#subpl.scatter(pos[:, 0], pos[:, 1], pos[:, 2],s=20, c='g')
-subpl.scatter(pos[:, 0], pos[:, 1], pos[:, 2],s=20, c=colors)
-plt.axis('tight')
-#plt.savefig('gaussianInfoGeom-3dEmbed.pdf')
-#plt.show()
-
-
-#make 2d scatter
+#make 2d embedding
 mds2 = manifold.MDS(n_components=2, max_iter=3000, eps=1e-9, random_state=seed,
                    dissimilarity="precomputed", n_jobs=1)
-pos2 = mds2.fit(similarities).embedding_
+embed2d = mds2.fit(distances).embedding_
 
-#fig2 = plt.figure(figsize=(8,8))
-#subpl2 = fig2.add_subplot(111)
-subpl2 = fig.add_subplot(122)
-subpl2.scatter(pos2[:, 0], pos2[:, 1],s=20, c=colors)
+#Setup plots
+fig = plt.figure(figsize=(5*3,4.5))
 
-
+#make original grid plot
+gridsubpl = fig.add_subplot(131)
+gridsubpl.scatter(gridMuSigma[:, 0], gridMuSigma[:, 1], s=20, c=colors)
+gridsubpl.set_xlabel('mean')
+gridsubpl.set_ylabel('standard deviation')
+plt.title('Original grid in mean and std. dev.')
 plt.axis('tight')
-plt.savefig('gaussianInfoGeom-2dEmbed.pdf')
+
+# plot 3d embedding
+#since it is a surface of constant negative curvature (hyperbolic geometry)
+#expect it to look like the pseudo-sphere
+#http://mathworld.wolfram.com/Pseudosphere.html
+subpl = fig.add_subplot(132,projection='3d')
+subpl.scatter(embed3d[:, 0], embed3d[:, 1], embed3d[:, 2],s=20, c=colors)
+subpl.view_init(42, 101) #looks good when njobs=-1
+subpl.view_init(-130,-33)#looks good when njobs=1
+
+plt.suptitle('3D Multidim. Scailing Embedding')
+plt.axis('tight')
+
+# plot 2d embedding
+subpl2 = fig.add_subplot(133)
+subpl2.set_autoscaley_on(False)
+subpl2.scatter(embed2d[:, 0], embed2d[:, 1],s=20, c=colors)
+plt.title('2D Multidim. Scailing Embedding')
+plt.axis('tight')
+
+plt.savefig('gaussianInfoGeom.pdf')
 plt.show()
