@@ -98,4 +98,5 @@ plt.title('2D Multidim. Scailing Embedding')
 plt.axis('tight')
 
 plt.savefig('gaussianInfoGeom.pdf')
+plt.savefig('gaussianInfoGeom.png')
 plt.show()
