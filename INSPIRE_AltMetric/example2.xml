@@ -1,0 +1,4525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Search-Engine-Total-Number-Of-Results: 440 -->
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <controlfield tag="001">1287055</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014dya</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1403.6293</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for top quark decays $t\rightarrow qH$ with $H\to\gamma\gamma$ using the ATLAS detector</subfield>
+    <subfield code="9">arXiv</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1286892</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014wra</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1403.5657</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of the 4$\ell$ Cross Section at the $Z$ Resonance and  Determination of the Branching Fraction of $Z\rightarrow 4\ell$ in $pp$ Collisions at $\sqrt{s}$ = 7 and 8 TeV with ATLAS</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1286761</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014vma</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1403.5294</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for direct production of charginos, neutralinos and sleptons in final states with two leptons and missing transverse momentum in pp collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1286622</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014mha</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1403.5222</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for direct top squark pair production in events with a Z boson, b-jets and missing transverse momentum in $\sqrt{s}$=8 TeV pp collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1286444</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014qaa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1403.4853</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for direct top-squark pair production in final states with two leptons in pp collisions at $\sqrt{s}$=8 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1285866</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1088/1742-6596/490/1/012229</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Gumpert:2014kea</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Software for statistical data analysis used in Higgs searches</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1283339</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014fla</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1403.0489</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of event-plane correlations in $\sqrt{s_{NN}}$=2.76 TeV lead-lead collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1282905</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014nua</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1402.7029</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for direct production of charginos and neutralinos in events with three leptons and missing transverse momentum in $\sqrt{s}$ = 8 TeV $pp$ collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1282447</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014xca</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1402.6263</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of the production of a W boson in association with a charm quark in pp collisions at $\sqrt(s)$=7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1282441</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014rca</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1402.6162</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">The differential production cross section of the $\phi$(1020) meson in $\sqrt{s}$ = 7 TeV pp collisions measured with the ATLAS Detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1281236</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014iia</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1402.3244</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for Invisible Decays of a Higgs Boson Produced in Association with a Z Boson in ATLAS</subfield>
+    <subfield code="9">arXiv</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1281233</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2014.03.015</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014fia</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1402.3051</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for Higgs boson decays to a photon and a Z boson in pp collisions at $\sqrt{s}$=7 and 8 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1279489</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014dta</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1401.7610</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of the electroweak production of dijets in association with a Z-boson and distributions sensitive to vector boson fusion in proton-proton collisions at $\sqrt{s}$ = 8 TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1277181</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">oai:arXiv.org:1401.2134</subfield>
+    <subfield code="9">arXiv</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Goodman:2014tql</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">10 Simple Rules for the Care and Feeding of Scientific Data</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1276825</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2014rua</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1401.2831</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the production cross section of prompt J/psi mesons in association with a W boson in pp collisions at sqrt{s}=7 TeV with the ATLAS detector</subfield>
+    <subfield code="9">arXiv</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1275827</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Cranmer:2013hia</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1401.0080</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">A Novel Approach to Higgs Coupling Measurements</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1268975</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013tea</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1312.3524</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of dijet cross sections in pp collisions at 7 TeV centre-of-mass energy using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1268153</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.89.032002</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013dza</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1312.1956</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for a Multi-Higgs Boson Cascade in $W^+W^− b\bar{b}$ events with the ATLAS detector in pp collisions at √s = 8 TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1266438</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1088/1748-0221/9/02/P02001</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013ela</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1311.7070</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Standalone vertex finding in the ATLAS muon spectrometer</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1266254</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP02(2014)107</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013cea</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1311.6724</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the top quark pair production charge asymmetry in proton-proton collisions at $\sqrt{s}$ = 7 TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1264619</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Bardeen:2013fta</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1401.6119</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Planning the Future of U.S. Particle Physics (Snowmass 2013): Chapter 10: Communication, Education, and Outreach</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1263762</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.112.091804</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013gma</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1311.2006</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for Quantum Black-Hole Production in High-Invariant-Mass Lepton+Jet Final States Using Proton-Proton Collisions at $\sqrt{s} = 8$ TeV and the ATLAS Detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1263495</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013zba</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1311.1440</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of the inclusive isolated prompt photon cross section in pp collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector using 4.6 fb-1</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1262795</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Dawson:2013bba</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1310.8361</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Higgs Working Group Report of the Snowmass 2013 Community Planning Study</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1261968</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.88.112003</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013gva</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1310.6584</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for long-lived stopped R-hadrons decaying out-of-time with pp collisions using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1261966</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.12.010</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013eva</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1310.6527</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the mass difference between top and anti-top quarks in pp collisions at $\sqrt(s) = 7$ TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1258398</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.88.112006</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013yna</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1310.3675</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for charginos nearly mass-degenerate with the lightest neutralino based on a disappearing-track signature in pp collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1254228</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.112.041802</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013oja</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1309.4017</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for dark matter in events with a hadronically decaying W or Z boson and missing transverse momentum in pp collisions at $\sqrt{s}$=8 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1253852</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.12.029</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013cva</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1309.3230</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for new phenomena in photon+jet events collected in proton--proton collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1249597</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.88.072001</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013lna</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1308.4075</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp42b</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for microscopic black holes in a like-sign dimuon final state using large track multiplicity with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1247462</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP10(2013)189</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013ija</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1308.2631</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp42a</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for direct third-generation squark pair production in final states with missing transverse momentum and two $b$-jets in $\sqrt{s} =$ 8 TeV $pp$ collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1247060</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP10(2013)130</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013wta</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1308.1841</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for new phenomena in final states with large jet multiplicities and missing transverse momentum at sqrt(s)=8 TeV proton-proton collisions using the ATLAS experiment</subfield>
+    <subfield code="9">arXiv</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1246787</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1088/1367-2630/15/9/093011</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013jja</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1308.1364</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp42e</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for excited electrons and muons in $\sqrt{s}$=8 TeV proton-proton collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1244522</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.nuclphysb.2013.07.025</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013gaa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1307.6795</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp37e</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Dynamics of isolated-photon plus jet production in pp collisions at $\sqrt(s)=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1244318</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.111.232002</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013ksa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1307.6511</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp37e</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of top quark polarization in top-antitop events from proton-proton collisions at $\sqrt{s}$ = 7 TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1244142</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Boudjema:2013qla</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1307.5865</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp37b</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">On the presentation of the LHC Higgs Results</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1243871</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2676-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013fba</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp37e</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1307.5749</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of jet shapes in top-quark pair events at $\sqrt{s}$ = 7 TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1243158</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP11(2013)031</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013uza</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp37c</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1307.4568</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the top quark charge in $pp$ collisions at $\sqrt{s} =$ 7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1241575</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.08.026</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013xqa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp35d</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1307.1432</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1559925</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Evidence for the spin-0 nature of the Higgs boson using ATLAS data</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1241574</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.08.010</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013wqa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1307.1427</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-kj35a</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1559924</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurements of Higgs boson production and couplings in diboson final states with the ATLAS detector at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1240670</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP10(2013)042</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">ATLAS:2013cia</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp35d</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1307.0126</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1560355</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of the differential cross-section of $B^{+}$ meson production in pp collisions at $\sqrt{s}$ = 7 TeV at ATLAS</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1240088</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.111.152301</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013sla</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1306.6469</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp35d</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1558505</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of the Azimuthal Angle Dependence of Inclusive Jet Yields in Pb+Pb Collisions at $\sqrt{s_{NN}}$= 2.76 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1239348</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP09(2013)076</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013gja</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1306.4945</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-kj31c</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1556999</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Performance of jet substructure techniques for large-$R$ jets in proton-proton collisions at $\sqrt{s}$ = 7 TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1236448</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Cranmer:2012sba</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp25a</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">HistFactory: A tool for creating statistical models for use with RooFit and RooStats</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1234228</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.07.049</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013iua</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1305.4192</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp29e</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of the high-mass Drell--Yan differential cross-section in pp collisions at $\sqrt{s}$=7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1233359</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP11(2013)183</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013xma</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp27b</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1305.2942</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the distributions of event-by-event flow harmonics in lead-lead collisions at = 2.76 TeV with the ATLAS detector at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1233089</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.88.012004</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013nca</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1305.2756</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp27b</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for $t\bar t$ resonances in the lepton plus jets final state with ATLAS using 4.7 fb$^{-1}$ of $pp$ collisions at $\sqrt{s} = 7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1232965</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1088/1748-0221/8/07/P07015</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013txa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp27b</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1305.2284</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Triggers for displaced decays of long-lived neutral particles in the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1231616</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.87.112006</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013wxa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1305.0125</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp24a</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="z">Aad:2013pdy</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for resonant diboson production in the WW/WZ→ℓνjj decay channels with the ATLAS detector at $\sqrt{s}$ = 7  TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1230812</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP07(2013)032</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013ysa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1304.7098</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-kj24a</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of the production cross section of jets in association with a Z boson in pp collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1229507</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013tua</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1304.6386</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">A study of heavy flavor quarks produced in association with top quark pairs at sqrt(s) = 7 TeV using the ATLAS detector</subfield>
+    <subfield code="9">arXiv</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1229502</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.88.012001</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013oua</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1304.6310</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp27c</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for nonpointing photons in the diphoton and $E^{miss}_T$ final state in $\sqrt{s}$=7  TeV proton-proton collisions using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1228693</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2509-4</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013lpa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-kp22b</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1304.4739</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of the inclusive jet cross section in pp collisions at sqrt(s)=2.76 TeV and comparison to the inclusive jet cross section at sqrt(s)=7 TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1223730</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1126/science.1232005</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">ATLAS:2012oga</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-07946</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">A particle consistent with the Higgs Boson observed with the ATLAS Detector at the Large Hadron Collider</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1223123</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.06.057</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013fja</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-06700</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1303.2084</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement with the ATLAS detector of multi-particle azimuthal correlations in p+Pb collisions at $\sqrt{s_{NN}}$=5.02 TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1222326</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP06(2013)033</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">ATLAS:2013oea</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-05942</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1303.0526</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for third generation scalar leptoquarks in pp collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1222129</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1088/1748-0221/8/07/P07004</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013zwa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-06187</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1303.0223</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Characterisation and mitigation of beam-induced backgrounds observed in the ATLAS detector during the 2011 proton-proton run</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1219961</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1088/1367-2630/15/4/043009</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013yqp</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-05345</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1302.4403</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for WH production with a light Higgs boson decaying to prompt electron-jets in proton-proton collisions at $\sqrt{s}$=7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1219960</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2518-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013ucp</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1302.4393</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Improved luminosity determination in $pp$ collisions at $\sqrt{s}$ = 7 TeV using the ATLAS detector at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1219797</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2465-z</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013hla</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-05343</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1302.3694</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for a light charged Higgs boson in the decay channel $H^+ \to c\bar{s}$ in $t\bar{t}$ events using pp collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1219330</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physrep.2013.07.004</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Schael:2013ita</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-06212</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1302.3415</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Electroweak Measurements in Electron-Positron Collisions at W-Boson-Pair Energies at LEP</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1219109</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP06(2013)084</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013vka</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-05765</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1302.2929</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of the cross-section for W boson production in association with b-jets in pp collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1217867</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2432-8</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013ueu</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-06213</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1302.1415</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of kT splitting scales in W->lv events at sqrt(s)=7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1217863</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.87.112003</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013izg</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-06215</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1302.1283</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurements of Wγ and Zγ production in pp collisions at $\sqrt{s}$=7  TeV with the ATLAS detector at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1216670</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1088/1367-2630/15/3/033038</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013bjm</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-04425</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1301.6872</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of hard double-parton interactions in $W(\to l\nu)$+ 2 jet events at $\sqrt{s}$=7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1216295</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2463-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Abbiendi:2013hk</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-04573</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1301.6065</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for Charged Higgs bosons: Combined Results Using LEP Data</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1215605</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.04.036</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013pqd</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-04423</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1301.5272</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Search for long-lived, multi-charged particles in pp collisions at $\sqrt{s}$=7 TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1209719</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.03.016</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2013rna</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-03770</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1301.1583</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for single $b^*$-quark production with the ATLAS detector at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1208701</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2362-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012naa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-02166</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1212.6149</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Multi-channel search for squarks and gluinos in $\sqrt{s}=7$ TeV $pp$ collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1208548</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.01.034</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012qua</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-02174</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1212.5409</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">A search for prompt lepton-jets in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1208304</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.110.182302</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-02028</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012gla</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1212.5198</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Observation of Associated Near-side and Away-side Long-range Correlations in $\sqrt{s_{NN}}$=5.02 TeV Proton-lead Collisions with the ATLAS Detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1207451</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP03(2013)076</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-02124</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012rjx</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1212.3572</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for charged Higgs bosons through the violation of lepton universality in $t\bar{t}$ events using $pp$ collision data at $\sqrt{s}=7$ TeV with the ATLAS experiment</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1205881</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.04.035</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012ypy</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-01421</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1212.1272</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for a heavy narrow resonance decaying to $e \mu$, $e \tau$, or $\mu \tau$ with the ATLAS detector in $\sqrt{s}=7$ TeV $pp$ collisions at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1204994</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.87.052004</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012dlq</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-01417</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1211.7255</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1497193</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of Upsilon production in 7 TeV pp collisions at ATLAS</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1204991</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2328-7</subfield>
+  </datafield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2328-7</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01349</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012vip</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1211.7205</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1497191</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the ttbar production cross section in the tau+jets channel using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1204786</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP02(2013)095</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01357</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012cfr</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1211.6956</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1489152</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for the neutral Higgs bosons of the Minimal Supersymmetric Standard Model in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1204784</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.01.054</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012wfa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01359</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1489561</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">Measurement of angular correlations in Drell-Yan lepton pairs to probe Z/gamma* boson transverse momentum at sqrt(s)=7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1204447</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.87.052002</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012xsa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-01450</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1211.6312</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1496448</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for new phenomena in events with three charged leptons at $/sqrt{s}$ = 7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1203852</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP03(2013)128</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01304</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012awa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1211.6096</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1496097</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of $ZZ$ production in $pp$ collisions at $\sqrt{s}=7$ TeV and limits on anomalous $ZZZ$ and $ZZ\gamma$ couplings with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1201945</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP01(2013)116</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012raa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1211.2202</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="z">Aad:2012ans</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1493242</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for resonances decaying into top-quark pairs using fully hadronic decays in $pp$ collisions with ATLAS at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1199269</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP01(2013)086</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012tba</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1211.1913</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1493037</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of isolated-photon pair production in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1199005</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.02.015</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012pra</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1211.1597</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1492197</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Searches for heavy long-lived sleptons and R-Hadrons with the ATLAS detector in $pp$ collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1198427</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.01.041</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012jva</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1211.1167</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1492085</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for supersymmetry in events with photons, bottom quarks, and missing transverse momentum in proton-proton collisions at a centre-of-mass energy of 7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1198341</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.87.015010</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1211.1150</subfield>
+    <subfield code="z">oai:arXiv.org:1211.1150</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012bsa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1492086</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for contact interactions and large extra dimensions in dilepton events from $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1197323</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1088/1367-2630/15/4/043007</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012cy</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.8389</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1491195</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for Extra Dimensions in diphoton events using proton-proton collisions recorded at $\sqrt{s}=7$ TeV with the ATLAS detector at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1197236</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Assamagan:2006oba</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">942275</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Report of the Event Tag Review and Recommendation Group</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1196799</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Cranmer:2011tka</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1373388</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Combined searches for the Higgs boson with ATLAS and CMS</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1196749</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Casadei:2011via</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1331180</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">The implementation of the ATLAS missing Et triggers for the initial LHC operation</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1196722</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1109/NSSMIC.2010.5873863</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Ciodaro:2010uha</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1308440</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Muon Detection Based on a Hadronic Calorimeter</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1196559</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Cranmer:2007nba</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1057144</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">EventView - The Design Behind an Analysis Framework</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1196535</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Assamagan:2006paa</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1005813</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Report of the AOD Format Task Force</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1196501</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Asai:2006hza</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">981418</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Physics Analysis Tools 2006 Workshop Summary Report</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1196360</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Cranmer:2004wta</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">726479</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Analysis of VBF $H\rightarrow WW\rightarrow \nu \nu$</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1196359</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Cranmer:2004vta</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">726480</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Statistical Methods to Assess the Combined Sensitivity of the ATLAS Detector to the Higgs Boson in the Standard Model</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1195834</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Cranmer:2002qza</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">685444</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Neural Network Based Search for Higgs Boson Produced via VBF with $H \rightarrow W^+W^- \rightarrow l^+ l^- \sla{p_{T}}$ for $115&lt;M_H&lt;130~\gev$</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1195829</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Cranmer:2002lza</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">685449</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Confidence Level Calculations for $H\rightarrow W^+W^- \rightarrow l^{+}l^{-}\sla{p_{T}}$ for $115&lt;M_H&lt;130\,\gev$ Using Vector Boson Fusion</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1195797</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Cranmer:2003fya</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">685489</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Application of K Factors in the $H\rightarrow ZZ^\star\rightarrow 4l$ Analysis at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1195754</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Cranmer:2002owa</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">685429</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for Higgs Bosons Decay $H\rightarrow W^+W^- \rightarrow l^{+}l^{-}\sla{p_{T}}$ for $115&lt;M_H&lt;130\,\gev$ Using Vector Boson Fusion</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1194807</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Abolins:2010dma</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1265604</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">The ATLAS Trigger/DAQ Authorlist, version 4.0</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1194803</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Abolins:2009zla</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1207077</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">The ATLAS Trigger/DAQ Authorlist, version 3.0</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1194802</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Abolins:2009yla</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1207560</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">The ATLAS Trigger/DAQ Authorlist, version 3.1</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1194801</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Abolins:2009xla</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1194749</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">The ATLAS Trigger/DAQ Authorlist, version 2.0</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1194610</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2009oea</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1175196</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Triggering on Long-Lived Neutral Particles in the ATLAS Detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1194605</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Gorini:2006jea</subfield>
+    <subfield code="9">INSPIRETeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">991113</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">The ATLAS Data Acquisition and High-Level Trigger</subfield>
+    <subfield code="b">Concept, Design and Status</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1193933</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.01.042</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012zx</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-01446</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.7451</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1490571</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for long-lived, heavy particles in final states with a muon and multi-track displaced vertex in proton-proton collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1193351</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">oai:arXiv.org:1210.6948</subfield>
+    <subfield code="z">oai:arXiv.org:1210.6948</subfield>
+    <subfield code="9">arXiv</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Asymptotic distribution for two-sided tests with lower and upper boundaries on the parameter of interest</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="z">Cowan:2012se</subfield>
+    <subfield code="9">SPIRESTeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1490198</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1193050</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.01.040</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012gm</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01339</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.6604</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1489649</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">A search for high-mass resonances decaying to $\tau^+\tau^-$ in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1193044</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.110.022301</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012ew</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01288</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.6486</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1489648</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of $Z$ boson Production in Pb+Pb Collisions at $\sqrt{s_{NN}}=2.76$ TeV with the ATLAS Detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1192920</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2306-0</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012ag</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01336</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.6210</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1489592</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Jet energy resolution in proton-proton collisions at $\sqrt{s}=7$ TeV recorded in 2010 with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1191898</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.11.071</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012qe</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-01436</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.5468</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1488925</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for pair production of heavy top-like quarks decaying to a high-pT $W$ boson and a $b$ quark in the lepton plus jets final state at $\sqrt{s}$=7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1191430</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2244-2</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012hi</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01264</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.5070</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1486012</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for doubly-charged Higgs bosons in like-sign dilepton final states at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1191023</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2263-z</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012ds</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-01447</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.4826</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1485558</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for pair-produced massive coloured scalars in four-jet final states with the ATLAS detector in proton-proton collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1191022</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP12(2012)086</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012dp</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D13-01439</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.4813</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1485557</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for pair production of massive particles decaying into three quarks with the ATLAS detector in $\sqrt{s}=7$ TeV $pp$ collisions at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1190896</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP12(2012)007</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012mn</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01306</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.4538</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1485033</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for anomalous production of prompt like-sign lepton pairs at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1190892</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP04(2013)075</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012ky</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01294</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.4491</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1485031</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for dark matter candidates and large extra dimensions in events with a jet and missing transverse momentum with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1190891</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP12(2012)124</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012kr</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01274</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.4457</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1485027</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for R-parity-violating supersymmetry in events with four or more leptons in $\sqrt{s}=7$ TeV $pp$ collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1190187</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.87.112001</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012mec</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01283</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1484203</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.2979</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of $W^+W^-$ production in pp collisions at $\sqrt{s}$=7  TeV with the ATLAS detector and limits on anomalous WWZ and WWγ couplings</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1190185</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP01(2013)131</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012jp</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01313</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.2852</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1484202</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for direct chargino production in anomaly-mediated supersymmetry breaking models based on a disappearing-track signature in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1189659</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP01(2013)029</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-15065</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012pu</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.1718</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1483724</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">ATLAS search for new phenomena in dijet mass and angular distributions using $pp$ collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1189432</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2215-7</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-15173</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012ht</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.1314</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1483273</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for Supersymmetry in Events with Large Missing Transverse Momentum, Jets, and at Least One Tau Lepton in 7 TeV Proton-Proton Collision Data with the ATLAS Detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1188891</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-013-2301-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012ma</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01244</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.0441</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1474599</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the flavour composition of dijet events in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1188890</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.02.058</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012kw</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01243</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1210.0435</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1472707</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for displaced muonic lepton jets from light Higgs boson decay in proton-proton collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1188681</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.86.091103</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012em</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">DA13-01238</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1209.6593</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1482194</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for resonant top plus jet production in $t\bar{t}$ + jets events with the ATLAS detector in $pp$ collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1186740</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.110.011802</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-15051</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012fw</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1479178</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1209.4625</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for dark matter candidates and large extra dimensions in events with a photon and missing transverse momentum in $pp$ collision data at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1186731</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2241-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-15048</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012dm</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1479177</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1209.4446</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">ATLAS search for a heavy gauge boson decaying to a charged lepton and a neutrino in $pp$ collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1186556</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP11(2012)094</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-15075</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012uu</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1478977</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1209.4186</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for a heavy top-quark partner in final states with two leptons with the ATLAS detector at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1185259</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP11(2012)138</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-15080</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012hf</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1477754</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1209.2535</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for high-mass resonances decaying to dilepton final states in pp collisions at s**(1/2) = 7-TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1184952</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.01.049</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-15145</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012yr</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1476929</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1209.2102</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for light top squark pair production in final states with leptons and $b^-$ jets with the ATLAS detector in $\sqrt{s}=7$ TeV proton-proton collisions</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1184351</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.10.069</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-15081</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1476109</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012zza</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1209.0753</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for diphoton events with large missing transverse momentum in 7 TeV proton-proton collision data with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1183818</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP11(2012)033</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-15181</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1475420</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012mfa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.6256</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurements of the pseudorapidity dependence of the total transverse energy in proton-proton collisions at $\sqrt{s}=7$ TeV with ATLAS</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1180197</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.86.092002</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-15086</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012ms</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.4688</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1474310</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Further search for supersymmetry at $\sqrt{s}=7$ TeV in final states with jets, missing transverse momentum and isolated leptons with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1128464</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2237-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12213</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012tx</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1473933</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.4305</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for light scalar top quark pair production in final states with two leptons with the ATLAS detector in $\sqrt{s}=7$ TeV proton-proton collisions</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1127601</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.11.039</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12207</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1473259</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012hba</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.3144</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for direct production of charginos and neutralinos in events with three leptons and missing transverse momentum in $\sqrt{s}=7$ TeV $pp$ collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1127505</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.11.058</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12178</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1473093</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012pxa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.2884</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for direct slepton and gaugino production in final states with two leptons and missing transverse momentum with the ATLAS detector in $pp$ collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1127504</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.11.040</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12177</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012nev</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1473092</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.2880</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for new phenomena in the $W W$ to $\ell \nu \ell$' $\nu$' final state in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1127331</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.109.211803</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.2590</subfield>
+    <subfield code="z">oai:arXiv.org:1208.2590</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12190</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1472942</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012xqa</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for direct top squark pair production in final states with one isolated lepton, jets, and missing transverse momentum in $\sqrt{s}=7$ TeV $pp$ collisions using 4.7 $fb^{-1}$ of ATLAS data</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1126965</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2013.01.024</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12186</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1472372</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012vca</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.1967</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the jet radius and transverse momentum dependence of inclusive jet suppression in lead-lead collisions at $\sqrt{s_{NN}}$= 2.76 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1126136</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.109.211802</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12224</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012ywa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.1447</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1472180</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for a supersymmetric partner to the top quark in final states with jets and missing transverse momentum at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1126131</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2173-0</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12221</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1472179</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012twa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.1390</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of $WZ$ production in proton-proton collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1125961</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.87.012008</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12442</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1472021</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012fqa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.0949</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for squarks and gluinos with the ATLAS detector in final states with jets and missing transverse momentum using 4.7 fb$^{-1}$ of $\sqrt{s}=7$ TeV proton-proton collision data</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1125576</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP12(2012)072</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12439</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012kba</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.0572</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1471553</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Time-dependent angular analysis of the decay $B_{s}^{0} \to J/{\psi\phi}$ and extraction of $\Delta\Gamma_{s}$ and the CP-violating weak phase $\phi_s$ by ATLAS</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1125575</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.86.072004</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12438</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1471552</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012jba</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1208.0563</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Underlying event characteristics and their dependence on jet size of charged-particle jet events in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1124337</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.08.020</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1207.7214</subfield>
+    <subfield code="z">oai:arXiv.org:1207.7214</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12459</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012tfa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1471031</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1124167</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.88.032004</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12456</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1470847</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012fza</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1207.6915</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of charged-particle event shape variables in $\sqrt{s}=7$ TeV proton-proton interactions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1124035</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.109.261803</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12469</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012qi</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1207.6411</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1470625</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for magnetic monopoles in $\sqrt{s}=7$ TeV $pp$ collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1123657</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2261-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12490</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012hg</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1463845</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1207.5644</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurements of top quark pair relative differential cross-sections with ATLAS in $pp$ collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1123116</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2174-z</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-12480</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012pq</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1207.4686</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1463046</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for top and bottom squarks from gluino pair production in final states with missing transverse energy and at least three b-jets with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1121877</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP09(2012)041</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1207.2409</subfield>
+    <subfield code="z">oai:arXiv.org:1207.2409</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-09998</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1461225</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012dpa</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">A search for $t\bar{t}$ resonances in lepton+jets events with highly boosted top quarks collected in $pp$ collisions at $\sqrt{s} = 7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1121875</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.87.032002</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-10495</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1461224</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012bpa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1207.2284</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the $\Lambda_b$ lifetime and mass in the ATLAS experiment</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1120741</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.86.032003</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1207.0319</subfield>
+    <subfield code="z">oai:arXiv.org:1207.0319</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-10500</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012an</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1459149</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s} = 7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1120736</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.10.061</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-10502</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1459148</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012gxa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1207.0210</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for the Standard Model Higgs boson produced in association with a vector boson and decaying to a $b$-quark pair with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1120014</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.10.066</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08818</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012me</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1458052</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1206.6074</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for the Higgs boson in the $H \to W W \to$ lnujj decay channel at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1120011</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP09(2012)070</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08816</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012mea</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1458053</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1206.5971</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for the Standard Model Higgs boson in the $H$ to $\tau^{+} \tau^{-}$ decay mode in $\sqrt{s}=7$ TeV $pp$ collisions with ATLAS</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1119557</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.86.072006</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08800</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012meb</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1457958</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1206.5369</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">ATLAS measurements of the properties of jets for boosted particle searches</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1118269</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.nuclphysb.2012.07.009</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1206.3122</subfield>
+    <subfield code="z">oai:arXiv.org:1206.3122</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1456046</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012jga</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the b-hadron production cross section using decays to $D^{*}\mu^-X$ final states in pp collisions at sqrt(s) = 7 TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1118040</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.09.020</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-11634</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1455727</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012oxa</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1206.2443</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for a standard model Higgs boson in the mass range 200 - 600-GeV in the $H \to ZZ \to \ell^+ \ell^- q \bar{q}$ decay channel with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1117887</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2211-y</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-11632</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012np</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1455435</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1206.2135</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of event shapes at large momentum transfer with the ATLAS detector in $pp$ collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1117704</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP07(2012)167</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1206.1760</subfield>
+    <subfield code="z">oai:arXiv.org:1206.1760</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-11628</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012hm</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1455271</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Hunt for new phenomena using large jet multiplicities and missing transverse momentum with ATLAS in 4.7 fb$^{-1}$ of $\sqrt{s}=7$ TeV proton-proton collisions</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1117206</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.08.010</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1206.0756</subfield>
+    <subfield code="z">oai:arXiv.org:1206.0756</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-07773</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012uub</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1454642</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for the Standard Model Higgs boson in the $H \to$ WW(*) $\to \ell \nu \ell \nu$ decay mode with 4.7 /fb of ATLAS data at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1116876</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP09(2012)139</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-07767</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012ij</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1453776</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1206.0257</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">A search for flavour changing neutral currents in top-quark decays in $pp$ collision data collected with the ATLAS detector at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1116532</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.09.016</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-07766</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1452898</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012ora</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.6744</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for a Standard Model Higgs boson in the H -> ZZ -> $l^+l^-\nu \bar{\nu}$ decay channel using 4.7 $fb^{-1}$ of sqrt(s) = 7 TeV data with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1116151</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.08.011</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.5764</subfield>
+    <subfield code="z">oai:arXiv.org:1205.5764</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-11612</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1451924</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012xca</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Evidence for the associated production of a $W$ boson and a top quark in ATLAS at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1115822</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2083-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.5371</subfield>
+    <subfield code="z">oai:arXiv.org:1205.5371</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-11601</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012wm</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1451531</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">A search for $t\bar{t}$ resonances with the ATLAS detector in 2.05 fb$^{-1}$ of proton-proton collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1115482</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.4667</subfield>
+    <subfield code="z">oai:arXiv.org:1205.4667</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-11824</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Akopov:2012bm</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1450816</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Status Report of the DPHEP Study Group: Towards a Global Effort for Sustainable Data Preservation in High Energy Physics</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1114487</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.09.031</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.3130</subfield>
+    <subfield code="z">oai:arXiv.org:1205.3130</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012ux</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1448641</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the $t$-channel single top-quark production cross section in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1114319</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.09.017</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08034</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012mr</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1448274</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.2531</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of $W \gamma$ and $Z \gamma$ production cross sections in $pp$ collisions at $\sqrt{s}=7$ TeV and limits on anomalous triple gauge couplings with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1114314</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP06(2012)088</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.2484</subfield>
+    <subfield code="z">oai:arXiv.org:1205.2484</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08032</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012ky</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1448272</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the W boson polarization in top quark decays with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1114034</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.09.032</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08028</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1447457</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012mza</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.2067</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the top quark pair cross section with ATLAS in pp collisions at sqrt(s) = 7 TeV using final states with an electron or a muon and a hadronically decaying $\tau$ lepton</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1113597</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.109.081801</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.1016</subfield>
+    <subfield code="z">oai:arXiv.org:1205.1016</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08041</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012ej</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1450215</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for tb resonances in proton-proton collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1113445</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2040-z</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.0725</subfield>
+    <subfield code="z">oai:arXiv.org:1205.0725</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08051</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012yw</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1445892</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for lepton flavour violation in the emu continuum with the ATLAS detector in $\sqrt{s}=7$ TeV $pp$ collisions at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1113444</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2157-0</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1205.0701</subfield>
+    <subfield code="z">oai:arXiv.org:1205.0701</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08052</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012yq</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1436105</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for a fermiophobic Higgs boson in the diphoton decay channel with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1112907</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.07.010</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1204.6736</subfield>
+    <subfield code="z">oai:arXiv.org:1204.6736</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08842</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012cz</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1444877</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for scalar top quark pair production in natural gauge mediated supersymmetry models with the ATLAS detector in $pp$ collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1112906</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2062-6</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1204.6720</subfield>
+    <subfield code="z">oai:arXiv.org:1204.6720</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08841</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1444876</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012cia</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of $\tau$ polarization in $W -> \tau \nu$ decays with the ATLAS detector in pp collisions at sqrt(s) = 7 TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1112263</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.108.261804</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1204.5638</subfield>
+    <subfield code="z">oai:arXiv.org:1204.5638</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-08835</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1443876</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012jja</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for supersymmetry in events with three leptons and missing transverse momentum in $\sqrt{s}=7$ TeV $pp$ collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1111820</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.08.009</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1204.4646</subfield>
+    <subfield code="z">oai:arXiv.org:1204.4646</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012ic</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1442591</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for TeV-scale gravity signatures in final states with leptons and jets with the ATLAS detector at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1111144</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.06.061</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1204.3852</subfield>
+    <subfield code="z">oai:arXiv.org:1204.3852</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012rt</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1441677</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for supersymmetry with jets, missing transverse momentum and at least one hadronically decaying $\tau$ lepton in proton-proton collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1110689</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP06(2012)039</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1204.2760</subfield>
+    <subfield code="z">oai:arXiv.org:1204.2760</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-07785</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012tj</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1440533</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for charged Higgs bosons decaying via $H^{+} \to \tau \nu$ in top quark pair events using $pp$ collision data at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1107731</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.85.112012</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1204.1648</subfield>
+    <subfield code="z">oai:arXiv.org:1204.1648</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012vs</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1439550</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for resonant $WZ$ production in the $WZ \to \ell \nu \ell^\prime\ell^\prime$ channel in $\sqrt{s}=7$ TeV $pp$ collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1104755</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.109.071801</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1204.1265</subfield>
+    <subfield code="z">oai:arXiv.org:1204.1265</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-07799</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1439034</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012pga</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="z">Aad:2012bdq</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for pair production of a new quark that decays to a Z boson and a bottom quark with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1102909</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.06.013</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1204.0735</subfield>
+    <subfield code="z">oai:arXiv.org:1204.0735</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-06212</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012pn</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1437014</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for the decay Bs0 -> mu mu with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1095404</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.06.055</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.6580</subfield>
+    <subfield code="z">oai:arXiv.org:1203.6580</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-06236</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012ag</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1435769</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for events with large missing transverse momentum, jets, and at least two tau leptons in 7 TeV proton-proton collision data with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1095238</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1016/j.physletb.2012.05.003</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.6232</subfield>
+    <subfield code="z">oai:arXiv.org:1203.6232</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1435199</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="a">Aad:2012oea</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRETeX</subfield>
+    <subfield code="z">Aad:2012rxl</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the $W W$ cross section in $\sqrt{s}=7$ TeV $pp$ collisions with the ATLAS detector and limits on anomalous gauge couplings</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1095236</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.85.112006</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.6193</subfield>
+    <subfield code="z">oai:arXiv.org:1203.6193</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-06235</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012ah</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1435198</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for supersymmetry in $pp$ collisions at $\sqrt{s}=7$ TeV in final states with missing transverse momentum and $b^-$ jets with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1094860</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.108.241802</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.5763</subfield>
+    <subfield code="z">oai:arXiv.org:1203.5763</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-06249</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012ai</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1434694</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for gluinos in events with two same-sign leptons, jets and missing transverse momentum with the ATLAS detector in $pp$ collisions at $\sqrt{s}=7$ TeV</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1094859</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2046-6</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.5755</subfield>
+    <subfield code="z">oai:arXiv.org:1203.5755</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-06248</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012aj</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1434692</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the top quark mass with the template method in the $t \bar{t}$ -> lepton + jets channel using ATLAS data</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1094857</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2056-4</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.5420</subfield>
+    <subfield code="z">oai:arXiv.org:1203.5420</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-06247</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012ak</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1434691</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for heavy neutrinos and right-handed $W$ bosons in events with two leptons and jets in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1094568</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2043-9</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-06243</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012al</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1433862</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.5015</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of $t \bar{t}$ production with a veto on additional central jet activity in pp collisions at sqrt(s) = 7 TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1094564</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP05(2012)128</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.4606</subfield>
+    <subfield code="z">oai:arXiv.org:1203.4606</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-06242</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012am</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1433823</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Jet mass and substructure of inclusive jets in $\sqrt{s}=7$ TeV $pp$ collisions with the ATLAS experiment</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1094175</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2039-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.4211</subfield>
+    <subfield code="z">oai:arXiv.org:1203.4211</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-03706</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012an</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1433373</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the charge asymmetry in top quark pair production in $pp$ collisions at $\sqrt{s}=7$ TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1094169</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.108.212001</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.4081</subfield>
+    <subfield code="z">oai:arXiv.org:1203.4081</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-03703</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012ao</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1433372</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Observation of spin correlation in $t \bar{t}$ events from pp collisions at sqrt(s) = 7 TeV using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1094167</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.109.012001</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.4051</subfield>
+    <subfield code="z">oai:arXiv.org:1203.4051</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-03702</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Aad:2012sb</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1433371</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Determination of the strange quark density of the proton from ATLAS measurements of the $W \to \ell \nu$ and $Z \to \ell\ell$ cross sections</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1094061</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP05(2012)157</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.3549</subfield>
+    <subfield code="z">oai:arXiv.org:1203.3549</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-07276</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012ap</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1418829</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of inclusive two-particle angular correlations in pp collisions with the ATLAS detector at the LHC</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1093739</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2151-6</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.3172</subfield>
+    <subfield code="z">oai:arXiv.org:1203.3172</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-03697</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012aq</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1432186</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for second generation scalar leptoquarks in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1093738</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevD.85.092014</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.3161</subfield>
+    <subfield code="z">oai:arXiv.org:1203.3161</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-03696</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012ar</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1432185</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the production cross section of an isolated photon associated with jets in proton-proton collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1093734</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1007/JHEP07(2012)019</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.3100</subfield>
+    <subfield code="z">oai:arXiv.org:1203.3100</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-03695</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012as</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1432184</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Forward-backward correlations and charged-particle azimuthal distributions in pp interactions using the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1093733</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevC.86.014907</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-03694</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012at</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1432183</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.3087</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the azimuthal anisotropy for charged particle production in $\sqrt{s_{NN}}=2.76$ TeV lead-lead collisions with the ATLAS detector</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1093520</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-1976-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.2489</subfield>
+    <subfield code="z">oai:arXiv.org:1203.2489</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-05199</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Kraml:2012sg</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1431314</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Searches for New Physics: Les Houches Recommendations for the Presentation of LHC Results</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1093486</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1140/epjc/s10052-012-2001-6</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.2165</subfield>
+    <subfield code="z">oai:arXiv.org:1203.2165</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012au</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1431000</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Measurement of the polarisation of $W$ bosons produced with large transverse momentum in $pp$ collisions at $\sqrt{s}=7$ TeV with the ATLAS experiment</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1093110</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.1488</subfield>
+    <subfield code="z">oai:arXiv.org:1203.1488</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-04552</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">Brooijmans:2012yi</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1430263</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Les Houches 2011: Physics at TeV Colliders New Physics Working Group Report</subfield>
+  </datafield>
+</record>
+<record>
+  <controlfield tag="001">1092979</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1103/PhysRevLett.108.251801</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">arXiv</subfield>
+    <subfield code="a">oai:arXiv.org:1203.1303</subfield>
+    <subfield code="z">oai:arXiv.org:1203.1303</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">DESY</subfield>
+    <subfield code="z">D12-03574</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="z">ATLAS:2012av</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CDS</subfield>
+    <subfield code="a">1429944</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Search for a light Higgs boson decaying to long-lived weakly-interacting particles in proton-proton collisions at $\sqrt{s}=7$ TeV with the ATLAS detector</subfield>
+  </datafield>
+</record>
+
+</collection>
