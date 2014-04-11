@@ -1,11 +1,16 @@
+# Author: Kyle Cranmer <kyle.cranmer@nyu.edu>
+# Licence: BSD
+
 """
-Using INSPIRE API
+Using INSPIRE API to generate widgets for a given author
 http://inspirehep.net/help/admin/search-engine-api
 ot=24 for DOI
 ot=35 for arXiv
 ot=37 for arxiv etc.
 ot=245 for title
 """
+print(__doc__)
+
 
 import requests
 from xml.etree import ElementTree
@@ -32,7 +37,7 @@ def processRecords(collection ):
 
 
 def getCollection(authorID='K.S.Cranmer.1'):
-	testing=True
+	testing=False
 	url = 'http://inspirehep.net/search?p=author:%s&of=xm&ot=024,035,245&rg=200' %(authorID)
 	tree = ElementTree.parse('example2.xml')
 	root = tree.getroot()
@@ -66,33 +71,6 @@ def makeWidgets(titlesAndDOIs):
 
 
 if __name__ == '__main__':
-	#makeWidgets(getListOfDOIs())
 	makeWidgets(processRecords(getCollection()))
+	#fun ones: M.Reece.1, N.Arkani.Hamed.1
 
-
-"""
-http://inspirehep.net/search?p=author:K.S.Cranmer.1&of=xm&ot=024,035&rg=200
-
-<record>
-<controlfield tag="001">1285866</controlfield>
-<datafield tag="024" ind1="7" ind2=" ">
-<subfield code="2">DOI</subfield>
-<subfield code="a">10.1088/1742-6596/490/1/012229</subfield>
-</datafield>
-<datafield tag="035" ind1=" " ind2=" ">
-<subfield code="9">INSPIRETeX</subfield>
-<subfield code="a">Gumpert:2014kea</subfield>
-</datafield>
-</record>
-<record>
-<controlfield tag="001">1286622</controlfield>
-<datafield tag="035" ind1=" " ind2=" ">
-<subfield code="9">INSPIRETeX</subfield>
-<subfield code="a">Aad:2014mha</subfield>
-</datafield>
-<datafield tag="035" ind1=" " ind2=" ">
-<subfield code="9">arXiv</subfield>
-<subfield code="a">oai:arXiv.org:1403.5222</subfield>
-</datafield>
-</record>
-"""
