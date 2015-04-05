@@ -1,3 +1,4 @@
+INSPIRE_AltMetric/*.xml
 
 SpyrographAnimation/spyro.mp4
 
@@ -34,3 +35,15 @@ manifoldLearning/checkpoint_modifiedSimilarityParabola.py
 manifoldLearning/GaussianInformationGeometryEmbedding.html
 
 SpyrographAnimation/AnimationEmbedding.ipynb
+
+misc/.ipynb_checkpoints/george_emcee_example-checkpoint.ipynb
+
+misc/ind-results.png
+
+misc/ind-corner.png
+
+misc/gp-results.png
+
+misc/gp-corner.png
+
+misc/data.png

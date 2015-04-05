@@ -101,7 +101,7 @@ def printRecords(extractedContent):
 			print r
 
 def addRecord(rec):
-	recast_url = "http://recast.perimeterinstitute.ca/api/recast-analysis"
+	recast_url = "http://recast.perimeterinstitute.ca/dev/api/recast-analysis"
 	payload=OrderedDict([ \
 		('username',RECAST_USERNAME), \
 		('title',rec['title']), \
@@ -110,7 +110,7 @@ def addRecord(rec):
 		('journal',''), \
 		('doi',rec['doi']), \
 		('inspire_url',rec['arxivURL']), \
-		('description','description') \
+		('description',rec['abstract']) \
 		])
 	print payload
 	r = requests.post(recast_url, data=payload)
@@ -131,7 +131,7 @@ def addRecord(rec):
 		('name',rec['energy']),
 		('description',rec['lumi']+' at '+rec['energy'])
 		])
-	recast_url = "http://recast.perimeterinstitute.ca/api/recast-analysis/"+uuid+'/add-run-condition'
+	recast_url = "http://recast.perimeterinstitute.ca/dev/api/recast-analysis/"+uuid+'/add-run-condition'
 	print recast_url
 	r = requests.post(recast_url, data=payload)
 	print r
