@@ -1,0 +1,29 @@
+digraph model{
+"model" [ color=red, label="RooAddPdf
+model"];
+"g" [ color=red, label="RooGaussian
+g"];
+"x" [ color=blue, label="RooRealVar
+x"];
+"mu" [ color=blue, label="RooRealVar
+mu"];
+"sigma" [ color=blue, label="RooRealVar
+sigma"];
+"s" [ color=blue, label="RooRealVar
+s"];
+"e" [ color=red, label="RooExponential
+e"];
+"tau" [ color=blue, label="RooRealVar
+tau"];
+"b" [ color=blue, label="RooRealVar
+b"];
+"g" -> "x";
+"g" -> "mu";
+"g" -> "sigma";
+"e" -> "x";
+"e" -> "tau";
+"model" -> "g";
+"model" -> "e";
+"model" -> "s";
+"model" -> "b";
+}
