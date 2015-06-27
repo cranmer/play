@@ -47,3 +47,5 @@ misc/gp-results.png
 misc/gp-corner.png
 
 misc/data.png
+
+misc/.*/*-checkpoint.ipynb
